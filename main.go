@@ -1,3 +1,7 @@
+/*
+This code displays some shit
+*/
+
 package main
 import(
 	"fmt"
